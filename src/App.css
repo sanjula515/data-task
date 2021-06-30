@@ -6,7 +6,6 @@
   }
   
   .grid-container > div {
-    text-align: center;
     padding: 20px 0;
     font-size: 20px;
   }
@@ -20,7 +19,7 @@
     font-size: 12px;
 }
 #ptxt{
-    color:lightseagreen;
+    color:rgb(102, 226, 220);
     font-size: 20px;
 }
 .App{
