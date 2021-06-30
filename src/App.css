@@ -1,0 +1,95 @@
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    grid-gap: 10px;
+    padding: 10px;
+  }
+  
+  .grid-container > div {
+    text-align: center;
+    padding: 20px 0;
+    font-size: 20px;
+  }
+  
+  .item1 {
+    grid-row: 1 / 2;
+  }
+ 
+#stxt{
+    color: grey;
+    font-size: 12px;
+}
+#ptxt{
+    color:lightseagreen;
+    font-size: 20px;
+}
+.App{
+    background-color:white;
+    min-height: 200px;
+    width:900px;
+    margin:40px;
+    margin-left: 290px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
